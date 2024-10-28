@@ -1,4 +1,4 @@
-# Home sale price prediction -- Kaggle 2021 Junior group
+# House Sale Price Prediction -- Kaggle 2021 Junior group
 This repository contains the home price data from Kaggle 2021, and prediction results using multiple machine learning models. The final prediction submitted to the compeition 
 is also included here (sample_submission.csv). 
 
